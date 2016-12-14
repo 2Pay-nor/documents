@@ -1,3 +1,5 @@
 # documents
 
-Some documentation in the wiki pages
+Some documentation in wiki pages.
+
+Index:
